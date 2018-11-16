@@ -1,0 +1,13 @@
+C:\Users\BAO\Documents\VS2010\Export Project\中天土地调查数据库管理系统\KEY\kkk\bin\Debug\KEY.exe
+C:\Users\BAO\Documents\VS2010\Export Project\中天土地调查数据库管理系统\KEY\kkk\bin\Debug\KEY.pdb
+C:\Users\BAO\Documents\VS2010\Export Project\中天土地调查数据库管理系统\KEY\kkk\obj\Debug\SystemInfoGenerator.FormGenerateSystemInfo.resources
+C:\Users\BAO\Documents\VS2010\Export Project\中天土地调查数据库管理系统\KEY\kkk\obj\Debug\kkk.csproj.GenerateResource.Cache
+C:\Users\BAO\Documents\VS2010\Export Project\中天土地调查数据库管理系统\KEY\kkk\obj\Debug\KEY.exe
+C:\Users\BAO\Documents\VS2010\Export Project\中天土地调查数据库管理系统\KEY\kkk\obj\Debug\KEY.pdb
+C:\Users\Administrator\Desktop\kkk\obj\Debug\KEY.exe
+C:\Users\Administrator\Desktop\kkk\obj\Debug\KEY.pdb
+C:\Users\Administrator\Desktop\kkk\bin\Debug\KEY.exe
+C:\Users\Administrator\Desktop\kkk\bin\Debug\KEY.pdb
+C:\Users\Administrator\Desktop\kkk\obj\Debug\kkk.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\kkk\obj\Debug\SystemInfoGenerator.FormGenerateSystemInfo.resources
+C:\Users\Administrator\Desktop\kkk\obj\Debug\kkk.csproj.GenerateResource.Cache
